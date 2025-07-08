@@ -1,3 +1,4 @@
+"use client";
 import BasicDetailsForm from '@/app/components/BasicDetailsForm'
 import DocumentCollectionForm from '@/app/components/DocumentCollectionForm'
 import InterviewAvailabilityForm from '@/app/components/InterviewAvailabilityForm'
