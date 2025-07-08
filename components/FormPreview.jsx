@@ -1,8 +1,8 @@
 "use client";
-import BasicDetailsForm from '@/app/components/BasicDetailsForm'
-import DocumentCollectionForm from '@/app/components/DocumentCollectionForm'
-import InterviewAvailabilityForm from '@/app/components/InterviewAvailabilityForm'
-import SOPForm from '@/app/components/SOPForm'
+import BasicDetailsForm from '@/components/BasicDetailsForm'
+import DocumentCollectionForm from '@/components/DocumentCollectionForm'
+import InterviewAvailabilityForm from '@/components/InterviewAvailabilityForm'
+import SOPForm from '@/components/SOPForm'
 import React from 'react'
 
 

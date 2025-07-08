@@ -1,9 +1,9 @@
 "use client"
 import React, { useState } from 'react'
 import Sidebar from './Sidebar/page';
-import FormPreview from './FormPreview/page';
+import FormPreview from '../../components/FormPreview';
 import { FormProvider, useForm } from 'react-hook-form';
-import Topbar from '../components/Topbar';
+import Topbar from '../../components/Topbar';
 
 const FormBuilder = () => {
   const [selectedTemplate, setSelectedTemplate] = useState(1);
